@@ -2,7 +2,7 @@
 
 Simple bash script to get nameservers of a list of domains
 
-I wrote this script to check if customer domains on our nameservers still exists and have our nameservers assigned to keep our nameservers clean.
+This script is for checking if customer domains on our nameservers still exist and have our nameservers assigned to keep our nameservers clean.
 
 ## Usage: ##
 
