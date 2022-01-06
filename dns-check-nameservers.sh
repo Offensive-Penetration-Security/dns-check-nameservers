@@ -5,7 +5,7 @@
 
 #### CONFIG - begin ####
 # Nameserver to query?
-QUERY_NAMESERVER="8.8.8.8"
+QUERY_NAMESERVER="8.8.4.4"
 
 # What to check
 CHECK_SOA=1
